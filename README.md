@@ -22,8 +22,6 @@ NLIDAT extends [TSENAT](https://github.com/gallardoalba/TSENAT) with non-linear 
 
 **Skinner, J. E., Molnár, M., & Tomberg, C.** (1994). The point correlation dimension: performance with non-stationary surrogate data and noise. *Integrative Physiological and Behavioral Science*, 29, 217-234.
 
-**Strogatz, S. H.** (2000). *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering*. Westview Press. ISBN: 9780738204536
-
 **Strogatz, S. H.** (2015). *Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering* (2nd ed.). Westview Press. ISBN: 9780813350690
 
 **Weiss, J. N., Garfinkel, A., Spano, M. L., & Ditto, W. L.** (1994). Chaos and Chaos Control in Biology. *Journal of Clinical Investigation*, 93(4), 1355-1360. PMCID: PMC294147
